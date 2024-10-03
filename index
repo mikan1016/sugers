@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>高分子化合物（糖）に関する問題演習</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>高分子化合物（糖）に関する問題演習</h1>
+    </header>
+    <main>
+        <section>
+            <h2>問題集</h2>
+            <ol>
+                <li>グルコース（ブドウ糖）の分子式は何ですか？</li>
+                <li>グルコースが2分子結合してできる二糖類を何と言いますか？</li>
+                <li>デンプンは何のモノマーから構成されていますか？</li>
+                <li>セルロースはどのような構造を持つ高分子ですか？簡単に説明してください。</li>
+                <li>スクロース（ショ糖）はどの2つの単糖から構成されていますか？</li>
+                <li>デンプンを構成する2つの多糖を答えてください。</li>
+                <li>還元糖とは何ですか？具体例を挙げて説明してください。</li>
+                <li>グリコーゲンの役割とその構造上の特徴を説明してください。</li>
+                <li>セルロースが水に溶けにくい理由は何ですか？</li>
+                <li>スクロースが加水分解されると何が生成されますか？</li>
+            </ol>
+            <p><a href="polymer_sugars_answers.html">解答ページへ進む</a></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 化学教育ウェブ</p>
+    </footer>
+</body>
+</html>
